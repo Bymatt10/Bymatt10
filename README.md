@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on software Development<br>🤝 I’m looking for help with NodeJs<br>🌱 I’m currently learning NodeJs<br>
+<br>👯 I’m looking to collaborate on software Development<br>🤝 I’m looking for help with JAVA<br>🌱 I’m currently learning JAVA<br>
 
 
 ## 🌐 Socials:
